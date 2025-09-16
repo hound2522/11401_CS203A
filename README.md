@@ -1,5 +1,6 @@
 ## Course Information
 Course Title: Data Structures.
+
 Course Code: CS203A
 Target Audience: Undergraduate Students
 Duration: 18 Weeks (including Midterm and Final exams)
