@@ -32,3 +32,5 @@ My student ID:1101046
 
 ## Repository descripion
 It repository is a record that is my learning experience from Data Structures. Or any learming related Data Structures.
+![20260106_130407](https://github.com/user-attachments/assets/de6730b8-32d3-4579-9278-14cc494f392b)
+
