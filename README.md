@@ -44,7 +44,6 @@ It repository is a record that is my learning experience from Data Structures. O
 ![20260106_130734](https://github.com/user-attachments/assets/48b423d6-26e7-49cd-9f82-fcb7bb604ebd)
 
 ## 小考和作業
-![20260106_130427](https://github.com/user-attachments/assets/600b4c0b-178e-4744-af1a-6f94aef0350e)
 ![20260106_130427](https://github.com/user-attachments/assets/7caeea25-433d-48ba-bdca-f0cee7134b82)
 ![20260106_130439](https://github.com/user-attachments/assets/df03ea60-6b64-4e61-9d37-15d5f4bb39a3)
 ![20260106_130457](https://github.com/user-attachments/assets/20b5fbee-d0c1-41ab-93ef-522fa4a34b36)
@@ -67,4 +66,5 @@ It repository is a record that is my learning experience from Data Structures. O
 ![20260106_130632](https://github.com/user-attachments/assets/ac0ed8eb-62bd-4251-9743-98df728c8edb)
 ![20260106_130637](https://github.com/user-attachments/assets/2b212c19-1882-41a9-9bbe-94ceeb3cfc10)
 
+[Assignment_V-1101046.docx](https://github.com/user-attachments/files/24464008/Assignment_V-1101046.docx)
 
